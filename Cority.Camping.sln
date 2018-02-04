@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cority.Camping", "Cority.Camping\Cority.Camping.csproj", "{56A97F4F-E426-4915-9F4F-0ADE6D7F2835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cority.Camping.Test", "Cority.Camping.Test\Cority.Camping.Test.csproj", "{8405B6F9-BD68-4521-BABF-C8883B47CE46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{56A97F4F-E426-4915-9F4F-0ADE6D7F2835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A97F4F-E426-4915-9F4F-0ADE6D7F2835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A97F4F-E426-4915-9F4F-0ADE6D7F2835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8405B6F9-BD68-4521-BABF-C8883B47CE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8405B6F9-BD68-4521-BABF-C8883B47CE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8405B6F9-BD68-4521-BABF-C8883B47CE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8405B6F9-BD68-4521-BABF-C8883B47CE46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
